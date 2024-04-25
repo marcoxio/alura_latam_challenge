@@ -11,3 +11,5 @@ c
 3src/com/alura/challenge/api/GeneradorDeArchivo.java,2\1\218898f4e84059def8a10f93036c19ac60e3a94c
 X
 (src/com/alura/challenge/model/Rates.java,e\8\e814e866482f13bcf332654e7749e308f8a8fd36
+p
+@src/com/alura/challenge/exception/CurrencyNotFoundException.java,8\8\88dca62121f24485b9fad65ef4841894b88614f6
