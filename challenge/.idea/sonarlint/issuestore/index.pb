@@ -9,7 +9,9 @@ b
 0src/com/alura/challenge/principal/Principal.java,b\f\bf93de3af56a39b283680dd59658f45c84e12be0
 c
 3src/com/alura/challenge/api/GeneradorDeArchivo.java,2\1\218898f4e84059def8a10f93036c19ac60e3a94c
-X
-(src/com/alura/challenge/model/Rates.java,e\8\e814e866482f13bcf332654e7749e308f8a8fd36
 p
 @src/com/alura/challenge/exception/CurrencyNotFoundException.java,8\8\88dca62121f24485b9fad65ef4841894b88614f6
+]
+-src/com/alura/challenge/model/Conversion.java,4\c\4c60cd25addfd1e5d3a319d21aedbd798cfa24d3
+8
+USD.json,e\5\e537204edf2eb06d947541746e3be4d27bc75282

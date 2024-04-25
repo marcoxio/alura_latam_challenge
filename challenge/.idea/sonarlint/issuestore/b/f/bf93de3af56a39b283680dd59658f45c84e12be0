@@ -1,22 +1,41 @@
 
-{	java:S115"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(—ßº—ıÿÿÿÿ8é±À›ñ1
-{	java:S115"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(¬ßãáıÿÿÿÿ8é±À›ñ1
-v	java:S115"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.( æÀé8é±À›ñ1
-v	java:S115"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(£ªÚº8é±À›ñ1
-F	java:S106"+Replace this use of System.out by a logger.(Ï›ÎE8ó±À›ñ1
-G	java:S106"+Replace this use of System.out by a logger.(Ï‚ïñ8ó±À›ñ1
-G	java:S106 "+Replace this use of System.out by a logger.(×÷°Ç8ó±À›ñ1
-F	java:S106!"+Replace this use of System.out by a logger.(ïñ8ô±À›ñ1
-G	java:S106""+Replace this use of System.out by a logger.(º¡‚È8ô±À›ñ1
-G	java:S106#"+Replace this use of System.out by a logger.(Õ·‚8ô±À›ñ1
-L	java:S106$"+Replace this use of System.out by a logger.(µ¾òøÿÿÿÿ8ô±À›ñ1
-L	java:S106%"+Replace this use of System.out by a logger.(—‡èÈÿÿÿÿÿ8û±À›ñ1
-L	java:S106&"+Replace this use of System.out by a logger.(èãû›ıÿÿÿÿ8û±À›ñ1
-L	java:S106'"+Replace this use of System.out by a logger.(Ã¹é®ûÿÿÿÿ8û±À›ñ1
-L	java:S106("+Replace this use of System.out by a logger.(ªÓ¼áşÿÿÿÿ8ÈÿÇ›ñ1
-m	java:S128@"LEnd this switch case with an unconditional break, return or throw statement.(‰æÙ«ÿÿÿÿÿ8ö±À›ñ1
-G	java:S106C"+Replace this use of System.out by a logger.(·ƒé°8³ÙÈ›ñ1
-G	java:S106H"+Replace this use of System.out by a logger.(ñ‡ş²8áıÈ›ñ1
-L	java:S106Q"+Replace this use of System.out by a logger.(¯Åû¨úÿÿÿÿ8ïèí›ñ1
-L	java:S106R"+Replace this use of System.out by a logger.(ªÓ¼áşÿÿÿÿ8ª¢ï›ñ1
-L	java:S106S"+Replace this use of System.out by a logger.(Ã¹é®ûÿÿÿÿ8áµñ›ñ1
+{	java:S115"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(—ßº—ıÿÿÿÿ8µÜï³ñ1
+{	java:S115"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(¬ßãáıÿÿÿÿ8¶Üï³ñ1
+v	java:S115"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.( æÀé8¶Üï³ñ1
+v	java:S115"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(£ªÚº8¶Üï³ñ1
+F	java:S106#"+Replace this use of System.out by a logger.(Ï›ÎE8ÄÜï³ñ1
+G	java:S106$"+Replace this use of System.out by a logger.(Ï‚ïñ8ÄÜï³ñ1
+G	java:S106%"+Replace this use of System.out by a logger.(×÷°Ç8ÄÜï³ñ1
+F	java:S106&"+Replace this use of System.out by a logger.(ïñ8ÄÜï³ñ1
+G	java:S106'"+Replace this use of System.out by a logger.(º¡‚È8ÅÜï³ñ1
+G	java:S106("+Replace this use of System.out by a logger.(Õ·‚8ÅÜï³ñ1
+L	java:S106)"+Replace this use of System.out by a logger.(µ¾òøÿÿÿÿ8ÅÜï³ñ1
+L	java:S106*"+Replace this use of System.out by a logger.(ƒïËıÿÿÿÿ8ÅÜï³ñ1
+F	java:S106+"+Replace this use of System.out by a logger.(ïš/8ÆÜï³ñ1
+L	java:S106,"+Replace this use of System.out by a logger.(à´Ú‚ûÿÿÿÿ8ÆÜï³ñ1
+G	java:S106-"+Replace this use of System.out by a logger.(€ÀÅ¦8ÆÜï³ñ1
+L	java:S106."+Replace this use of System.out by a logger.(÷°£ùÿÿÿÿ8ÆÜï³ñ1
+L	java:S106/"+Replace this use of System.out by a logger.(èãû›ıÿÿÿÿ8ÆÜï³ñ1
+L	java:S1060"+Replace this use of System.out by a logger.(Ã¹é®ûÿÿÿÿ8ÇÜï³ñ1
+L	java:S1061"+Replace this use of System.out by a logger.(ªÓ¼áşÿÿÿÿ8ÇÜï³ñ1
+m	java:S128_"LEnd this switch case with an unconditional break, return or throw statement.(àñµšşÿÿÿÿ8ÊÜï³ñ1
+L	java:S106J"+Replace this use of System.out by a logger.(Ã¹é®ûÿÿÿÿ8ÌÜï³ñ1
+L	java:S106K"+Replace this use of System.out by a logger.(ñ àœùÿÿÿÿ8ÌÜï³ñ1
+L	java:S106L"+Replace this use of System.out by a logger.(Ã¹é®ûÿÿÿÿ8ÌÜï³ñ1
+L	java:S106P"+Replace this use of System.out by a logger.(Ã¹é®ûÿÿÿÿ8ÍÜï³ñ1
+G	java:S106Q"+Replace this use of System.out by a logger.(Ø­‘ô8ÍÜï³ñ1
+L	java:S106S"+Replace this use of System.out by a logger.(Ã¹é®ûÿÿÿÿ8ÍÜï³ñ1
+L	java:S106W"+Replace this use of System.out by a logger.(Ã¹é®ûÿÿÿÿ8ÎÜï³ñ1
+L	java:S106X"+Replace this use of System.out by a logger.(’¢¤Ìÿÿÿÿÿ8ÎÜï³ñ1
+L	java:S106Y"+Replace this use of System.out by a logger.(Ã¹é®ûÿÿÿÿ8ÏÜï³ñ1
+G	java:S106b"+Replace this use of System.out by a logger.(·ƒé°8ĞÜï³ñ1
+G	java:S106g"+Replace this use of System.out by a logger.(ñ‡ş²8ÒÜï³ñ1
+L	java:S106p"+Replace this use of System.out by a logger.(¯Åû¨úÿÿÿÿ8ÔÜï³ñ1
+L	java:S106q"+Replace this use of System.out by a logger.(ªÓ¼áşÿÿÿÿ8ÔÜï³ñ1
+L	java:S106r"+Replace this use of System.out by a logger.(Ã¹é®ûÿÿÿÿ8ÔÜï³ñ1
+F	java:S106z"+Replace this use of System.out by a logger.(©”Í8ÕÜï³ñ1
+M	java:S106€"+Replace this use of System.out by a logger.(¶°²ÿÿÿÿÿ8×Üï³ñ1
+H	java:S106Œ"+Replace this use of System.out by a logger.(ä©¶8ÜÜï³ñ1
+M	java:S106"+Replace this use of System.out by a logger.(Ì÷´ûÿÿÿÿ8İÜï³ñ1
+U
+java:S1068"8Remove this unused "additionalCurrencies" private field.(„íÁ8İÜï³ñ1
