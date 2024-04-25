@@ -10,7 +10,7 @@ import java.net.http.HttpResponse;
 
 public class ConsultarExchange {
     public Exchange buscaExchange(String currencyCode){
-        URI direccion = URI.create("https://v6.exchangerate-api.com/v6/d549361a69036a0adc6c4750/latest/"+currencyCode);
+        URI direccion = URI.create("https://v6.exchangerate-api.com/v6/YOUR_API_KEY/latest/"+currencyCode);
 
         HttpClient client = HttpClient.newHttpClient();
         HttpRequest request = HttpRequest.newBuilder()
