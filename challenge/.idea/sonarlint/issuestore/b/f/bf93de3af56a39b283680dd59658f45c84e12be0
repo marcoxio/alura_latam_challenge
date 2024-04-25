@@ -1,0 +1,32 @@
+
+e
+java:S1854"CRemove this useless assignment to local variable "baseCurrencyCLP".(Œ¼‘µşÿÿÿÿ8ôë®šñ1
+`
+java:S1854"CRemove this useless assignment to local variable "baseCurrencyEUR".(‚§‘Å8ôë®šñ1
+‰
+java:S1130"lRemove the declaration of thrown exception 'java.io.IOException', as it cannot be thrown from method's body.(œû¿Ø8ó´½šñ1
+Q
+java:S1481"4Remove this unused "baseCurrencyEUR" local variable.(‚§‘Å8üë®šñ1
+V
+java:S1481"4Remove this unused "baseCurrencyCLP" local variable.(Œ¼‘µşÿÿÿÿ8şë®šñ1
+F	java:S106"+Replace this use of System.out by a logger.(Ï›ÎE8ì®šñ1
+G	java:S106"+Replace this use of System.out by a logger.(ˆ¥©À8Ÿì®šñ1
+G	java:S106"+Replace this use of System.out by a logger.(Ğé¥±8Ÿì®šñ1
+L	java:S106"+Replace this use of System.out by a logger.(Íû˜çùÿÿÿÿ8æÈ¸šñ1
+L	java:S106 "+Replace this use of System.out by a logger.(£ª±ÿÿÿÿÿ8æÈ¸šñ1
+G	java:S106!"+Replace this use of System.out by a logger.(æİ“8çÈ¸šñ1
+G	java:S106""+Replace this use of System.out by a logger.(ï‘Ûœ8çÈ¸šñ1
+G	java:S106#"+Replace this use of System.out by a logger.(ÒÛö‘8èÈ¸šñ1
+L	java:S106$"+Replace this use of System.out by a logger.(èãû›ıÿÿÿÿ8èÈ¸šñ1
+L	java:S106%"+Replace this use of System.out by a logger.(Ã¹é®ûÿÿÿÿ8èÈ¸šñ1
+G	java:S106)"+Replace this use of System.out by a logger.(ñ‡ş²8éÈ¸šñ1
+L	java:S1060"+Replace this use of System.out by a logger.(ÀûŞ±øÿÿÿÿ8êÈ¸šñ1
+L	java:S1061"+Replace this use of System.out by a logger.(ªÓ¼áşÿÿÿÿ8ëÈ¸šñ1
+L	java:S1062"+Replace this use of System.out by a logger.(Ã¹é®ûÿÿÿÿ8ëÈ¸šñ1
+]	java:S1259"<This block of commented-out lines of code should be removed.(Ò”Œ†şÿÿÿÿ8„µ½šñ1
+G	java:S106="+Replace this use of System.out by a logger.(·ƒé°8ìÈ¸šñ1
+L	java:S106C"+Replace this use of System.out by a logger.(ëÏšıÿÿÿÿ8íÈ¸šñ1
+L	java:S106E"+Replace this use of System.out by a logger.(©şêÜúÿÿÿÿ8íÈ¸šñ1
+G	java:S106F"+Replace this use of System.out by a logger.(À³÷8ïÈ¸šñ1
+i
+java:S1128"GRemove this unused import 'com.alura.challenge.api.GeneradorDeArchivo'.(æù¤¥şÿÿÿÿ8†µ½šñ1
